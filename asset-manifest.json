@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rongart1/my-website.git/static/css/main.c0ef40dd.css",
+    "main.js": "/rongart1/my-website.git/static/js/main.3eaffad1.js",
+    "static/js/453.ed3810f9.chunk.js": "/rongart1/my-website.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/app-backround.jpg": "/rongart1/my-website.git/static/media/app-backround.aa0396a29e0be5e33016.jpg",
+    "index.html": "/rongart1/my-website.git/index.html",
+    "main.c0ef40dd.css.map": "/rongart1/my-website.git/static/css/main.c0ef40dd.css.map",
+    "main.3eaffad1.js.map": "/rongart1/my-website.git/static/js/main.3eaffad1.js.map",
+    "453.ed3810f9.chunk.js.map": "/rongart1/my-website.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0ef40dd.css",
+    "static/js/main.3eaffad1.js"
+  ]
+}
