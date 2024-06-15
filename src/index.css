@@ -4,7 +4,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url("C:\\Users\\ron\\Desktop\\react weather-app\\weather-app\\public\\app-backround.jpg");
+  background-image: url('./assets/app-backround.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }

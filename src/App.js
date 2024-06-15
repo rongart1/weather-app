@@ -1,6 +1,7 @@
 import Search from "./components/Search";
 import WeatherDisplay from "./components/Weather";
 import React,{useState} from "react";
+import './index.css';
 function App() {
 
   const[ weatherData, setWeatherData] = useState(null);

@@ -7,7 +7,7 @@ function Search({ fetechedData }){
     const[city, setCity] = useState("");
 
     const fetchWeather = async ()=>{
-        const apiKey = process.env.REACT_APP_API_KEY;
+        const apiKey = "c69db734c7bd4ef0869133444241506";
         console.log("api key: ",apiKey);
         try{
             const response = await axios.get(`http://api.weatherapi.com/v1/current.json`, {
